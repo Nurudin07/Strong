@@ -1,6 +1,9 @@
 <html>
     <head>
         <title>mencoba strong</title>
+        <style>
+            html,body{margin:0;padding:0;}
+        </style>
     </head>
     <body>
         <header>
@@ -9,6 +12,9 @@
                 <span>Strong</span>
                 <span>Strong</span>
                 <span>Strong</span>
+            </div>
+            <div>
+                <p>Mencoba isi paragraph</p>
             </div>
         </header>
     </body>
